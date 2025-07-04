@@ -86,4 +86,8 @@ Here is a real hardware implementation of the project showing:
 - Arduino Uno board
 - 16x2 LCD displaying the calculated speed
 
-![Speed Detector Output](./media/Screenshot_2025-07-04_113812.png)
+![Speed Detector Output]
+<div align="center">
+    <img src="![Screenshot 2025-07-04 113812](https://github.com/user-attachments/assets/3882109b-f8b8-455e-9098-f4db4f0aa03a)
+" alt="Caesar Cipher" width="500"/>
+</div>
