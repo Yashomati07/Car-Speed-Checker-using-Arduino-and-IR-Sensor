@@ -81,13 +81,7 @@ void loop() {
 
 ## 🖼️ Output Photo
 
-Here is a real hardware implementation of the project showing:
-- IR sensors placed 10 cm apart
-- Arduino Uno board
-- 16x2 LCD displaying the calculated speed
+## Speed Detection System
 
-![Speed Detector Output]
-<div align="center">
-    <img src="![Screenshot 2025-07-04 113812](https://github.com/user-attachments/assets/3882109b-f8b8-455e-9098-f4db4f0aa03a)
-" alt="Caesar Cipher" width="500"/>
-</div>
+![Speed Detector](images/speed_detector.png)
+
