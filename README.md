@@ -79,9 +79,8 @@ void loop() {
   }
 }
 
-## 🖼️ Output Photo
-
 ## Speed Detection System
 
-![Speed Detector](images/speed_detector.png)
+![Speed Detector](![Screenshot 2025-07-04 113812](https://github.com/user-attachments/assets/8c5c3833-9bf9-4be5-bca5-5769ec796fd2)
+)
 
